@@ -1,0 +1,17 @@
+func myFavRecipe() 
+{
+print("Fill pan with water")
+print("Add packet of noodles")
+print("Let water boil for 10 min")
+print("Add packet of tastemaker")
+print("Serve with chopsticks and chilli sauce")
+}
+
+myFavRecipe()
+
+#Output is as follows:
+Fill pan with water
+Add packet of noodles
+Let water boil for 10 min
+Add packet of tastemaker
+Serve with chopsticks and chilli sauce
